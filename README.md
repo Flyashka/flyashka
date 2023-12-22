@@ -37,3 +37,14 @@ Hi, i'm fullstack devoloper from Russia 🔥 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+:fire: My Stats :<p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Flyashka&theme=dark&background=000000)](https://git.io/streak-stats)<p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyashka&layout=compact&theme=vision-friendly-dark)
+
+
+---
+
+### :writing_hand: Blog Posts :
